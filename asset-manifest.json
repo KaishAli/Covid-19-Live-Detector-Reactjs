@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Covid-19-Live-Detector-Reactjs/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Covid-19-Live-Detector-Reactjs/static/js/main.02c336c6.chunk.js",
+    "main.js.map": "/Covid-19-Live-Detector-Reactjs/static/js/main.02c336c6.chunk.js.map",
+    "runtime-main.js": "/Covid-19-Live-Detector-Reactjs/static/js/runtime-main.faa1f36b.js",
+    "runtime-main.js.map": "/Covid-19-Live-Detector-Reactjs/static/js/runtime-main.faa1f36b.js.map",
+    "static/js/2.1a9b4327.chunk.js": "/Covid-19-Live-Detector-Reactjs/static/js/2.1a9b4327.chunk.js",
+    "static/js/2.1a9b4327.chunk.js.map": "/Covid-19-Live-Detector-Reactjs/static/js/2.1a9b4327.chunk.js.map",
+    "static/js/3.6d889c82.chunk.js": "/Covid-19-Live-Detector-Reactjs/static/js/3.6d889c82.chunk.js",
+    "static/js/3.6d889c82.chunk.js.map": "/Covid-19-Live-Detector-Reactjs/static/js/3.6d889c82.chunk.js.map",
+    "index.html": "/Covid-19-Live-Detector-Reactjs/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Covid-19-Live-Detector-Reactjs/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.1a9b4327.chunk.js.LICENSE.txt": "/Covid-19-Live-Detector-Reactjs/static/js/2.1a9b4327.chunk.js.LICENSE.txt",
+    "static/media/COVID19.a2427bb2.jpg": "/Covid-19-Live-Detector-Reactjs/static/media/COVID19.a2427bb2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faa1f36b.js",
+    "static/js/2.1a9b4327.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.02c336c6.chunk.js"
+  ]
+}
